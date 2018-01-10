@@ -2,10 +2,9 @@
 
 **FACEBOOK-BOT**`GEABOT`
 
-[![Framework](https://img.shields.io/badge/iOS%20js-blue.svg?style=flat-square)](https://img.shields.io/badge/iOS%20js-blue.svg?style=flat-square)
-[![NodeVersion](https://img.shields.io/badge/node-7.10.1-green.svg?style=flat-square)](https://img.shields.io/badge/node-7.10.1-green.svg?style=flat-square)
-[![NpmVersion](https://img.shields.io/badge/npm-4.1.2-red.svg?style=flat-square)](https://img.shields.io/badge/npm-4.1.2-red.svg?style=flat-square)
+[![Operative Sistem](https://img.shields.io/badge/Operative%20Sistem-iOS-blue.svg?style=flat-square)](https://img.shields.io/badge/Operative%20Sistem-iOS-blue.svg?style=flat-square)
 
+[![Version O.S.](https://img.shields.io/badge/Version%20O.S.-10-green.svg?style=flat-square)](https://img.shields.io/badge/Version%20O.S.-10-green.svg?style=flat-square)
 
 
 Autor: _Ing. Andrés Paladines García_ `Desarrollador Senior`
